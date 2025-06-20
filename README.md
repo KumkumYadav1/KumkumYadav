@@ -14,13 +14,13 @@
  
  🌱 I’m currently learning <b>Frontend & Backend developer, AI Models</b>
 
-💬 Ask me about <b>Drone, Linux... or anything <a href="https://github.com/KumkumYadav1/KumkumYadav/issues">here</a></b>
+💬 Ask me about <b>HTML, CSS, JS, Linux... or anything <a href="https://github.com/KumkumYadav1/KumkumYadav/issues">here</a></b>
 
 
 </div>
 
 <div align="center"> 
-  <a href="goluprawal3@gmail.com">
+  <a href="kumkumyadav8393@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/kumkum-yadav-8393028048k/" target="_blank">
